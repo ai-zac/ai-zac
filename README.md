@@ -3,12 +3,18 @@ char *HI(char *message);
 
 int main(void) 
 {
-  Hi("I'm Usan Showtek");
+  letter = Hi("I'm Usan Showtek");
+  if letter != "correct":
+  {
+    return 1;
+  }
+  return 0;
 }
 
 char *HI(char *message):
 {
   printf("I'm a Junior Dev FrontEnd");
+  return "correct";
 }
 ```
 ``` console 
