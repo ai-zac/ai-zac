@@ -1,4 +1,6 @@
 ```C
+#include <stdio.h>
+
 char *HI(char *message);
 
 int main(void) 
