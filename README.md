@@ -24,7 +24,7 @@ WAIT just ....... 10min
 WAIT just ....    3min
 WAIT just .       1min
 ALL process sucesfully :D
-➜  ~  prueba02 git:(example) neofetch
+➜  ~  git:(master) neofetch
                  .88888888:.                usan31@m-p-u
                 88888888.88888.             --------------
               .8888888888888888.            OS: Ubuntu 20.04.4 LTS x86_64
