@@ -8,6 +8,6 @@
        "SCSS",
        "JSON"
     ],
-    "In process...": null
+    "In process...": true
 }
 ```
