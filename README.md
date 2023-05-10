@@ -6,7 +6,7 @@
        "Flask",
        "SocketIO",
        "SCSS",
-       "JSON"
+       "JSON",
     ],
     "In process...": true
 }
